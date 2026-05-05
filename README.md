@@ -396,16 +396,4 @@ const {
 
 ---
 
-## 📄 License
 
-Academic capstone project - Educational use only.
-
----
-
-## 🤝 Support
-
-For issues or questions, check the code comments or review the component documentation within each file.
-
----
-
-**Built with ❤️ for academic excellence**
